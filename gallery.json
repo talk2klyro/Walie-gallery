@@ -1,56 +1,515 @@
 [
   {
     "id": 1,
-    "url": "https://i.postimg.cc/y8LDSXdT/IMG-20251021-WA0043.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Family warmth, smiles all around.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/cHRHQXct/IMG-20251022-WA0038.jpg",
+    "title": "Wedding Bliss",
+    "uploader": "storvia 💞",
+    "caption": "He looks at her like a promise fulfilled; she answers with a quiet smile. Mawaddah wa Rahmah surrounds them as family whispers duʿā in every corner. 🤍✨",
+    "date": "2025-Sep-22",
     "likes": 0
   },
   {
     "id": 2,
-    "url": "https://i.postimg.cc/0NrbGMMY/IMG-20251021-WA0044.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Together is our favorite place.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/PxWxm2MP/IMG-20251022-WA0039.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "Hands joined, hearts steady — he and she begin a new chapter together, seeking sakīnah and mercy in the small, steady moments. 🕊️🤲🏽",
+    "date": "2025-Sep-22",
     "likes": 0
   },
   {
     "id": 3,
-    "url": "https://i.postimg.cc/XYsrycJH/IMG-20251021-WA0044.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Laughter, love, and legacy.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/Y0tS8YXq/IMG-20251022-WA0040.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "Parents’ eyes brim with tender pride as elders pass blessings like gentle lanterns — a circle of niʿmah lighting the way for he and she. 🌿🕯️",
+    "date": "2025-Sep-22",
     "likes": 0
   },
   {
     "id": 4,
-    "url": "https://i.postimg.cc/t4BsVtTk/IMG-20251021-WA0065.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Moments that matter most.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/vBrBW3v4/IMG-20251022-WA0041.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "A hush falls, palms lifted — family offers duʿā for their steadiness, praying that barakah follows each step he and she take together. 🤲🏽✨",
+    "date": "2025-Sep-22",
     "likes": 0
   },
   {
     "id": 5,
-    "url": "https://i.postimg.cc/y8LDSXdn/IMG-20251021-WA0066.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Rooted in love, growing in joy.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/50B0wnmy/IMG-20251022-WA0042.jpg",
+    "title": "Generations",
+    "uploader": "storvia 💞",
+    "caption": "Grandparents smile softly, remembering their own days; he and she listen, learning that love is patient and made sacred by time. 🌙❤️",
+    "date": "2025-Sep-22",
     "likes": 0
   },
   {
     "id": 6,
-    "url": "https://i.postimg.cc/g2gx6qJy/IMG-20251021-WA0067.jpg",
-    "title": "Aunty Hauwa Family",
-    "uploader": "klyro",
-    "caption": "Family first, always and forever.",
-    "date": "2025-10-13",
+    "url": "https://i.postimg.cc/7hqLX0Bh/IMG-20251022-WA0043.jpg",
+    "title": "Wedding Bliss",
+    "uploader": "storvia 💞",
+    "caption": "He steadies her with a look; she rests in the warmth of his presence — two souls finding sakīnah in the simplest of glances. 🌸🕊️",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 7,
+    "url": "https://i.postimg.cc/wM9BFLW0/IMG-20251022-WA0044.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "Laughter threads through the room as cousins weave around them — the day feels full of light, shukr on every smiling face. 😊🌿",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 8,
+    "url": "https://i.postimg.cc/h40vvZj7/IMG-20251022-WA0045.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "She leans on him and finds steadiness; he finds in her a gentle courage. Together they promise kindness, mercy, and shared duʿā. 🤍💍",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 9,
+    "url": "https://i.postimg.cc/hPPjd8zs/IMG-20251022-WA0047.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "An elder clasps their hands, whispering prayers of barakah and ease — the weight of blessing settling gently on he and she. 🤲🏽🌟",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 10,
+    "url": "https://i.postimg.cc/3rZNNfRz/IMG-20251022-WA0049.jpg",
+    "title": "Generations",
+    "uploader": "storvia 💞",
+    "caption": "Photos will hold this day, but the lessons of grandparents — patience, gratitude, humility — will carry he and she further than any picture. 📸🌿",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 11,
+    "url": "https://i.postimg.cc/sDDXhPQH/IMG-20251022-WA0055.jpg",
+    "title": "Barakah Gatherings",
+    "uploader": "storvia 💞",
+    "caption": "Small acts of kindness—an offered hand, a quiet compliment—bring barakah to the moment. He and she collect these like soft treasures. ✨🤝",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 12,
+    "url": "https://i.postimg.cc/J44nk3HL/IMG-20251022-WA0056.jpg",
+    "title": "Wedding Bliss",
+    "uploader": "storvia 💞",
+    "caption": "He whispers something that makes her laugh; she lights up the room. Love and levity — both part of the mercy they seek together. 😊💫",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 13,
+    "url": "https://i.postimg.cc/pXXTFQh7/IMG-20251022-WA0057.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "In the quiet between speeches and photos, he and she share a prayer for patience, for joy, for faith to guide their home. 🕊️🤲🏽",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 14,
+    "url": "https://i.postimg.cc/SNNsMLYN/IMG-20251022-WA0058.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "Aunts and uncles gather close, their smiles like a soft chorus. He and she stand at the center, wrapped in collective warmth. 🌺👨‍👩‍👧",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 15,
+    "url": "https://i.postimg.cc/ZKKRdPvt/IMG-20251022-WA0059.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "Duʿā is spoken in humble tones — for long life, gentle hearts, and a home filled with sakīnah for he and she. 🤲🏽🌙",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 16,
+    "url": "https://i.postimg.cc/4NL3bKpK/IMG-20251022-WA0060.jpg",
+    "title": "Generations",
+    "uploader": "storvia 💞",
+    "caption": "He bows slightly toward an elder, receiving a blessing like a soft benediction; she echoes the gratitude quietly in her heart. 🌿🙏",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 17,
+    "url": "https://i.postimg.cc/5N7tqH84/IMG-20251022-WA0061.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "They laugh, they speak softly about tomorrow — dreams mixed with duʿā, planning a life rooted in mercy and shared intention. 🌸🤍",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 18,
+    "url": "https://i.postimg.cc/TY7PqynK/IMG-20251022-WA0062.jpg",
+    "title": "Wedding Bliss",
+    "uploader": "storvia 💞",
+    "caption": "Candlelight and quiet conversation — the ordinary magic that turns two people into a family over time. Alhamdulillah. 🕯️✨",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 19,
+    "url": "https://i.postimg.cc/J46hcyjG/IMG-20251022-WA0063.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "Children dart between chairs, giggling; elders smile as the house fills with life. He and she watch, grateful for this tapestry of moments. 😊🌿",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 20,
+    "url": "https://i.postimg.cc/4NL3bKpy/IMG-20251022-WA0064.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "A quiet corner, two hands held; he and she exchange a private prayer for mercy and steadfastness on their path together. 🤲🏽🕊️",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 21,
+    "url": "https://i.postimg.cc/pXGdY9K5/IMG-20251022-WA0065.jpg",
+    "title": "Barakah Gatherings",
+    "uploader": "storvia 💞",
+    "caption": "Food, laughter, and the gentle hum of conversation — barakah appears in abundance when family gathers to celebrate he and she. 🍽️🌟",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 22,
+    "url": "https://i.postimg.cc/DwSwC2cX/IMG-20251022-WA0066.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "She rests her head on his shoulder for a second, and in that pause, a thousand promises are made without words. 💞🕊️",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 23,
+    "url": "https://i.postimg.cc/wTfBctDk/IMG-20251022-WA0067.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "A circle of warm hands and familiar voices — he and she feel held by the steady heart of family. Shukr fills the air. 🌺🤗",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 24,
+    "url": "https://i.postimg.cc/8PKCBFLR/IMG-20251022-WA0068.jpg",
+    "title": "Generations",
+    "uploader": "storvia 💞",
+    "caption": "An elder shares a story from years ago; he and she listen, learning that patience and humility are the truest foundations of home. 🌿📖",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 25,
+    "url": "https://i.postimg.cc/jdgjQWyf/IMG-20251022-WA0069.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "A collective duʿā rises — for mercy, joy, and a home steeped in faith. He and she receive each prayer like a gentle cloak. 🤲🏽🌙",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 26,
+    "url": "https://i.postimg.cc/c49JMKfY/IMG-20251022-WA0071.jpg",
+    "title": "Wedding Bliss",
+    "uploader": "storvia 💞",
+    "caption": "They steal a moment between greetings, smiling at how ordinary everything feels and how extraordinary love can be. ✨🤍",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 27,
+    "url": "https://i.postimg.cc/RVs0Q3wK/IMG-20251022-WA0072.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "Promises spoken softly, with eyes full of intent — he vows to listen, she vows to forgive; together they choose compassion. 💍🕊️",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 28,
+    "url": "https://i.postimg.cc/SxnxZyGC/IMG-20251022-WA0073.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "Siblings laugh and tease, creating a comfortable noise that becomes the soundtrack of he and she’s new life. Joy in shared history. 😊🌿",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 29,
+    "url": "https://i.postimg.cc/K8189Z5f/IMG-20251022-WA0074.jpg",
+    "title": "Barakah Gatherings",
+    "uploader": "storvia 💞",
+    "caption": "Every kind word and plate shared adds a little more blessing to the table; barakah grows when hearts are generous. 🍽️✨",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 30,
+    "url": "https://i.postimg.cc/x1X1s0PK/IMG-20251022-WA0075.jpg",
+    "title": "Generations",
+    "uploader": "storvia 💞",
+    "caption": "She listens to a story about long-ago weddings and smiles, realizing love is both timeless and tender when tended well. 🌙📜",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 31,
+    "url": "https://i.postimg.cc/rwDwh89g/IMG-20251022-WA0076.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "A hush of gratitude — he bows his head, she places a hand over his as prayers for mercy and steadiness are made. 🤲🏽💫",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 32,
+    "url": "https://i.postimg.cc/jSDS8shf/IMG-20251022-WA0077.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "They walk side by side, listening to the hum of the room — two companions, choosing kindness every day. Mawaddah wa Rahmah in motion. 🌸🤍",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 33,
+    "url": "https://i.postimg.cc/8z7zy1by/IMG-20251022-WA0078.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "Aunties arrange petals and stories, each action a blessing for the couple. He and she feel carried by this attentive love. 🌺🤗",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 34,
+    "url": "https://i.postimg.cc/vZ4ZPQvq/IMG-20251022-WA0079.jpg",
+    "title": "Wedding Bliss",
+    "uploader": "storvia 💞",
+    "caption": "The world narrows to their laughter for a moment; strangers feel like friends, and every smile becomes a quiet hymn of shukr. 😊🌟",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 35,
+    "url": "https://i.postimg.cc/rw7F3vhP/IMG-20251022-WA0080.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "He and she close their eyes as family prays — a shared hope that their home will be gentle, just, and full of mercy. 🤲🏽🕊️",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 36,
+    "url": "https://i.postimg.cc/YCvCXpxZ/IMG-20251022-WA0081.jpg",
+    "title": "Generations",
+    "uploader": "storvia 💞",
+    "caption": "An older cousin tells a story that makes everyone smile; traditions pass quietly from one generation to the next. 🌿📖",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 37,
+    "url": "https://i.postimg.cc/HkrkSp2D/IMG-20251022-WA0082.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "She notices how he cares for the little details; he admires her patience. Together they build a covenant of small mercies. 💞💍",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 38,
+    "url": "https://i.postimg.cc/6p8pH90N/IMG-20251022-WA0083.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "Aunts swap recipes and memories, weaving comfort into the day; he and she will carry these recipes into their shared home. 🍲🌸",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 39,
+    "url": "https://i.postimg.cc/qvWMS9bV/IMG-20251022-WA0084.jpg",
+    "title": "Barakah Gatherings",
+    "uploader": "storvia 💞",
+    "caption": "Songs and soft applause greet each smile — barakah feels like warmth on the skin and gratitude in the chest. ✨🙌",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 40,
+    "url": "https://i.postimg.cc/52DNTZPG/IMG-20251022-WA0085.jpg",
+    "title": "Generations",
+    "uploader": "storvia 💞",
+    "caption": "Photos with elders: he and she kneel for a moment, honoring the roots that will nourish their new branch of family. 🌳🤍",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 41,
+    "url": "https://i.postimg.cc/Vk2Lp372/IMG-20251022-WA0086.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "They exchange a private joke and then a serious promise; laughter and commitment braided together, like dua and daily deeds. 😊🤲🏽",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 42,
+    "url": "https://i.postimg.cc/t48CwLrK/IMG-20251022-WA0087.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "Children offer flowers; elders bless the couple — a full circle of giving and receiving that shows love’s many faces. 🌺👵🏽",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 43,
+    "url": "https://i.postimg.cc/PqZrj29r/IMG-20251022-WA0088.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "Beneath the quiet prayers, he and she feel held — each duʿā a small promise from family that they will not walk alone. 🤲🏽🌟",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 44,
+    "url": "https://i.postimg.cc/P50r9B3X/IMG-20251022-WA0089.jpg",
+    "title": "Wedding Bliss",
+    "uploader": "storvia 💞",
+    "caption": "Eyes meet across the room and the whole day feels like a private poem written just for he and she. Alhamdulillah. ✨📜",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 45,
+    "url": "https://i.postimg.cc/g21kQfSX/IMG-20251022-WA0090.jpg",
+    "title": "Generations",
+    "uploader": "storvia 💞",
+    "caption": "An elder’s steady gaze carries years of wisdom; he and she bow their heads, grateful for this quiet inheritance. 🌿🙏",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 46,
+    "url": "https://i.postimg.cc/g21kQfS0/IMG-20251022-WA0091.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "She straightens a fold on his sleeve; he smooths a worry from her forehead. Tenderness lives in small, sacred actions. 💞🕊️",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 47,
+    "url": "https://i.postimg.cc/rpWFkQ3C/IMG-20251022-WA0092.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "The room swells with stories, food, and familiar voices — a living quilt of memory that wraps he and she in belonging. 🌸👨‍👩‍👧",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 48,
+    "url": "https://i.postimg.cc/GpYhCqV8/IMG-20251022-WA0093.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "A quiet prayer in the corridor — for mercy, for light in hard times, for laughter to outshine sorrow. He and she breathe in hope. 🤲🏽🌙",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 49,
+    "url": "https://i.postimg.cc/3wpJTnVB/IMG-20251022-WA0095.jpg",
+    "title": "Barakah Gatherings",
+    "uploader": "storvia 💞",
+    "caption": "Songs, claps, and soft embraces — each cheerful noise is an echo of blessing, adding weightless joy to he and she’s day. 🎶✨",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 50,
+    "url": "https://i.postimg.cc/50V9N8MW/IMG-20251022-WA0096.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "They step forward together, hand in hand, ready to meet the ordinary days with extraordinary grace. Mawaddah wa Rahmah as their guide. 🤍💍",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 51,
+    "url": "https://i.postimg.cc/W3vpb0c7/IMG-20251022-WA0097.jpg",
+    "title": "Generations",
+    "uploader": "storvia 💞",
+    "caption": "Photographs of elders smiling back at the camera — anchors of history who bless the couple’s present and future. 🌿📷",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 52,
+    "url": "https://i.postimg.cc/26Dj8nN0/IMG-20251022-WA0098.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "Aunts adjust veils and straighten ties; in these small ministrations, he and she feel the quiet devotion of kin. 🌺🤍",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 53,
+    "url": "https://i.postimg.cc/HxgWsbCg/IMG-20251022-WA0099.jpg",
+    "title": "Moments of Duʿā",
+    "uploader": "storvia 💞",
+    "caption": "A late afternoon pause, she and he together watch the light change — offering thanks for every blessing that led them here. Alhamdulillah. 🌤️🤲🏽",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 54,
+    "url": "https://i.postimg.cc/xC3fkq9B/IMG-20251022-WA0101.jpg",
+    "title": "Wedding Bliss",
+    "uploader": "storvia 💞",
+    "caption": "They share a slow dance of silly steps and certain promises; laughter and love braided with a prayerful hush. 💫😊",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 55,
+    "url": "https://i.postimg.cc/3RF8yWKH/IMG-20251022-WA0102.jpg",
+    "title": "Bride & Groom",
+    "uploader": "storvia 💞",
+    "caption": "She tucks a stray hair behind his ear; he steadies her as the room spins softly around them — a quiet vow to be each other’s home. 🕊️🤍",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 56,
+    "url": "https://i.postimg.cc/mDyLchbr/IMG-20251022-WA0103.jpg",
+    "title": "Family Joy",
+    "uploader": "storvia 💞",
+    "caption": "An elder’s joke sparks a round of laughter; he and she watch, learning that joy is a family craft to be practiced daily. 😊🌿",
+    "date": "2025-Sep-22",
+    "likes": 0
+  },
+  {
+    "id": 57,
+    "url": "https://i.postimg.cc/wvQqt36z/IMG-20251022-WA0104.jpg",
+    "title": "Barakah Gatherings",
+    "uploader": "storvia 💞",
+    "caption": "As the day settles, the room glows with soft light and softer hearts — he and she walk forward beneath a canopy of blessing. 🤲🏽✨",
+    "date": "2025-Sep-22",
     "likes": 0
   }
 ]
